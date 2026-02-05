@@ -1,4 +1,4 @@
-🏏 Cricket Bowling Analytics Dashboard
+# 🏏 Cricket Bowling Analytics Dashboard
 
 📊 Project Overview
 
@@ -98,5 +98,5 @@ Aspiring Data Analyst | Power BI Developer | Visualization Enthusiast
 
 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Cricket Dashboard](https://raw.githubusercontent.com/princesi22/Cricket-Dashboard/main/cricket%20dashboard.jpg)
 
