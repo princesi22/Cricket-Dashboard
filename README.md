@@ -6,7 +6,7 @@ This interactive Cricket Bowling Analytics Dashboard provides deep insights into
 
 The goal of this project is to transform raw cricket data into meaningful visual insights using data visualization techniques.
 
-⸻
+
 
 🚀 Key Features
 
@@ -18,7 +18,7 @@ The goal of this project is to transform raw cricket data into meaningful visual
 ✅ Interactive and Visually Engaging Layout
 ✅ Player Performance Comparison Across Countries
 
-⸻
+
 
 📌 Insights Covered
 
@@ -28,7 +28,7 @@ The goal of this project is to transform raw cricket data into meaningful visual
 	•	Glenn McGrath – 949 Wickets
 	•	Wasim Akram – 916 Wickets
 
-⸻
+
 
 🎯 Bowling Workload Analysis
 
@@ -37,7 +37,7 @@ The dashboard analyzes the total number of balls bowled by players to understand
 	•	Longevity in international cricket
 	•	Workload distribution
 
-⸻
+
 
 🔥 Best Match Figures
 
@@ -48,7 +48,7 @@ Highlights extraordinary single match performances by legendary bowlers includin
 	•	Imran Khan
 	•	Anil Kumble
 
-⸻
+
 
 ⭐ Boundary Performance
 
@@ -56,7 +56,7 @@ Displays bowlers who frequently achieved:
 	•	Five wicket hauls
 	•	Ten wicket match performances
 
-⸻
+
 
 🛠️ Tools & Technologies Used
 	•	📊 Power BI
@@ -64,7 +64,7 @@ Displays bowlers who frequently achieved:
 	•	📂 Data Visualization Techniques
 	•	📉 Statistical Analysis
 
-⸻
+
 
 
 
@@ -78,7 +78,7 @@ This dashboard helps:
 
 To analyze bowling performance trends effectively.
 
-⸻
+
 
 📈 Skills Demonstrated
 
@@ -88,7 +88,7 @@ To analyze bowling performance trends effectively.
 ✔ Sports Data Analytics
 ✔ Storytelling Using Data
 
-⸻
+
 
 👨‍💻 Author
 
