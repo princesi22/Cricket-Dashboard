@@ -4,7 +4,7 @@
 
 ### *Transforming Raw Cricket Data into Meaningful Insights*
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://github.com/princesi22/Cricket-Dashboard)
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=for-the-badge&logo=tableau)](https://github.com/princesi22/Cricket-Dashboard)
 [![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoft-excel)](https://github.com/princesi22/Cricket-Dashboard)
 [![Data Visualization](https://img.shields.io/badge/Data-Visualization-blue?style=for-the-badge)](https://github.com/princesi22/Cricket-Dashboard)
 
@@ -102,16 +102,16 @@ Tracking bowlers who consistently achieved:
 
 | Tool | Purpose |
 |------|---------|
-| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Primary visualization and dashboard creation |
+| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | Primary visualization and dashboard creation |
 | ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | Data cleaning, preparation, and initial analysis |
-| ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge) | Data modeling and calculated measures |
+| ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0078D4?style=for-the-badge) | Data modeling and relationships |
 | ![Statistics](https://img.shields.io/badge/Statistics-FF6B6B?style=for-the-badge) | Statistical analysis and trend identification |
 
 </div>
 
 ### **Technical Stack:**
 
-- **📊 Power BI** - Interactive dashboard design and report generation
+- **📊 Tableau** - Interactive dashboard design and report generation
 - **📈 Microsoft Excel** - Data preprocessing, cleaning, and transformation
 - **📂 Data Modeling** - Relationship building and schema design
 - **📉 Statistical Analysis** - Performance metrics and trend analysis
@@ -154,7 +154,7 @@ This project showcases proficiency in:
 |----------------|----------------|
 | **🔍 Data Analysis** | Data cleaning, transformation, and validation |
 | **📊 Data Visualization** | Chart design, color theory, visual hierarchy |
-| **🗄️ Data Modeling** | Relationship creation, schema design, DAX measures |
+| **🗄️ Data Modeling** | Relationship creation, schema design, calculated fields |
 | **🎨 Dashboard Design** | UI/UX principles, interactive elements, user flow |
 | **📖 Data Storytelling** | Narrative building, insight generation, presentation |
 | **⚡ Business Intelligence** | KPI identification, metric definition, report optimization |
@@ -168,7 +168,7 @@ This project showcases proficiency in:
 
 ### **Prerequisites:**
 
-- Microsoft Power BI Desktop (Latest Version)
+- Tableau Desktop or Tableau Public (Latest Version)
 - Basic understanding of cricket terminology
 - Interest in sports analytics
 
@@ -180,9 +180,9 @@ This project showcases proficiency in:
    cd Cricket-Dashboard
    ```
 
-2. **Open the Power BI file:**
-   - Launch Power BI Desktop
-   - Open the `.pbix` file from the repository
+2. **Open the Tableau file:**
+   - Launch Tableau Desktop or Tableau Public
+   - Open the `.twb` or `.twbx` file from the repository
    - Wait for the data to load
 
 3. **Explore the dashboard:**
@@ -227,7 +227,7 @@ The dataset includes comprehensive statistics from:
 
 ### **Prince Singh**
 
-*Aspiring Data Analyst | Power BI Developer | Visualization Enthusiast*
+*Aspiring Data Analyst | Tableau Developer | Visualization Enthusiast*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princesi22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
@@ -269,7 +269,7 @@ Have questions or suggestions? Feel free to reach out!
 ## ⭐ Acknowledgments
 
 - Cricket statistics sources and databases
-- Power BI community for visualization inspiration
+- Tableau community for visualization inspiration
 - Open-source contributors and data analytics community
 
 ---
